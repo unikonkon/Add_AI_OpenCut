@@ -29,6 +29,8 @@ You can still find the previous version at [opencut-app/opencut-classic](https:/
 
 ## Development
 
+For a complete setup and run guide (including Web, API, Desktop, environment variables, and troubleshooting), see [RUNNING.md](RUNNING.md).
+
 Install [proto](https://moonrepo.dev/proto) if you haven't already:
 
 **Linux, macOS, WSL:**
